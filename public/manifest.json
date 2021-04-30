@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Friends or Foes Game",
+  "name": "Friends or Foes Game",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
+  "orientation": "landscape",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }

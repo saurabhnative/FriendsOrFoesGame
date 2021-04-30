@@ -1,0 +1,114 @@
+{
+    "results": [
+        {
+            "character1": {
+                "name": "Goku",
+                "imageName": "q1/goku.png"
+            },
+            "character2": {
+                "name": "Vegeta",
+                "imageName": "q1/vegeta.png"
+            },
+            "answer": "foes"
+        },
+        {
+            "character1": {
+                "name": "Iron Man",
+                "imageName": "q2/iron-man.png"
+            },
+            "character2": {
+                "name": "Thanos",
+                "imageName": "q2/thanos.png"
+            },
+            "answer": "foes"
+        },
+        {
+            "character1": {
+                "name": "Spider Man",
+                "imageName": "q3/spider-man.png"
+            },
+            "character2": {
+                "name": "Thanos",
+                "imageName": "q3/hulk.png"
+            },
+            "answer": "friends"
+        },
+        {
+            "character1": {
+                "name": "Harry Potter",
+                "imageName": "q4/Harry.png"
+            },
+            "character2": {
+                "name": "Hermoine",
+                "imageName": "q4/Hermoine.png"
+            },
+            "answer": "friends"
+        },
+        {
+            "character1": {
+                "name": "Star Lord",
+                "imageName": "q5/star-lord.png"
+            },
+            "character2": {
+                "name": "Groot",
+                "imageName": "q5/groot.png"
+            },
+            "answer": "friends"
+        },
+        {
+            "character1": {
+                "name": "Captain America",
+                "imageName": "q6/captain-america.png"
+            },
+            "character2": {
+                "name": "Spider Man",
+                "imageName": "q6/spider-man-marvel.png"
+            },
+            "answer": "friends"
+        },
+        {
+            "character1": {
+                "name": "Spider Man",
+                "imageName": "q7/spider-man.png"
+            },
+            "character2": {
+                "name": "Venom",
+                "imageName": "q7/venom.png"
+            },
+            "answer": "foes"
+        },
+        {
+            "character1": {
+                "name": "Darth Wader",
+                "imageName": "q8/darth-wader.png"
+            },
+            "character2": {
+                "name": "Luke",
+                "imageName": "q8/luke.png"
+            },
+            "answer": "foes"
+        },
+        {
+            "character1": {
+                "name": "Minion 1",
+                "imageName": "q9/minion1.png"
+            },
+            "character2": {
+                "name": "Minion 2",
+                "imageName": "q9/minion2.png"
+            },
+            "answer": "friends"
+        },
+        {
+            "character1": {
+                "name": "Mickey Mouse",
+                "imageName": "q10/micky-mouse.png"
+            },
+            "character2": {
+                "name": "Minnie Mouse",
+                "imageName": "q10/minnie-mouse.png"
+            },
+            "answer": "friends"
+        }
+    ]
+}
