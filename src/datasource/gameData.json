@@ -3,33 +3,33 @@
         {
             "character1": {
                 "name": "Goku",
-                "imageName": "q1/goku.png"
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806434/FriendsOrFoes/goku_b3sih0.png"
             },
             "character2": {
                 "name": "Vegeta",
-                "imageName": "q1/vegeta.png"
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806435/FriendsOrFoes/vegeta_u2ojrp.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
                 "name": "Iron Man",
-                "imageName": "q2/iron-man.png"
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806521/FriendsOrFoes/iron-man_vfufgq.png"
             },
             "character2": {
                 "name": "Thanos",
-                "imageName": "q2/thanos.png"
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806523/FriendsOrFoes/thanos_uod025.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
                 "name": "Spider Man",
-                "imageName": "q3/spider-man.png"
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806557/FriendsOrFoes/spider-man_tizmni.png"
             },
             "character2": {
-                "name": "Thanos",
-                "imageName": "q3/hulk.png"
+                "name": "Hulk",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806557/FriendsOrFoes/hulk_usijnd.png"
             },
             "answer": "friends"
         },

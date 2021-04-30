@@ -44,7 +44,7 @@ export default function GameScreen() {
           <Fade left spy={currentIndex} appear>
             <div className="character left">
               <img
-                src={`/images/${currentGameData.character1.imageName}`}
+                src={`${currentGameData.character1.imageName}`}
                 alt="character1"
               />
             </div>
@@ -80,10 +80,7 @@ export default function GameScreen() {
           </Fade>
           <Fade right spy={currentIndex} appear>
             <div className="character right">
-              <img
-                src={`/images/${currentGameData.character2.imageName}`}
-                alt=""
-              />
+              <img src={`${currentGameData.character2.imageName}`} alt="" />
             </div>
           </Fade>
         </>
