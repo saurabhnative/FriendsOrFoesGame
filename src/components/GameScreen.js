@@ -187,7 +187,14 @@ export default function GameScreen() {
   return (
     <div className="flex justify-center items-center h-screen flex-col">
       {renderTopSection()}
-      <div className="flex items-center justify-center characters-container">
+      <div
+        className={classNames(
+          "flex items-center justify-center characters-container",
+          {
+            hide: isGameCompleted(),
+          }
+        )}
+      >
         {renderCharacters()}
       </div>
       <div className="lower-portion mt-6 flex items-center justify-center flex-col">

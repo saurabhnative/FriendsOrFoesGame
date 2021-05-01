@@ -109,6 +109,10 @@
   }
 
   .characters-container {
-    min-height: 40vh;
+    min-height: 35vh;
+  }
+
+  .hide {
+    display: none;
   }
 }
