@@ -184,7 +184,7 @@ export default function GameScreen() {
   return (
     <div className="flex justify-center items-center h-screen flex-col">
       {renderTopSection()}
-      <div className="flex items-center justify-center">
+      <div className="flex items-center justify-center characters-container">
         {renderCharacters()}
       </div>
       <div className="lower-portion mt-6 flex items-center justify-center flex-col">

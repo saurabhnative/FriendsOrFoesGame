@@ -107,4 +107,8 @@
   .or-button {
     border-radius: 4px;
   }
+
+  .characters-container {
+    min-height: 40vh;
+  }
 }
