@@ -41,11 +41,12 @@ export default function GameScreen() {
     if (!isGameCompleted()) {
       return (
         <>
-          <Fade left spy={currentIndex} appear>
+          <Fade left spy={currentIndex} appear delay={500}>
             <div className="character left">
               <img
                 src={`${currentGameData.character1.imageName}`}
-                alt="character1"
+                alt="character 1"
+                loading="eager"
               />
             </div>
           </Fade>
@@ -78,9 +79,13 @@ export default function GameScreen() {
               </button>
             </div>
           </Fade>
-          <Fade right spy={currentIndex} appear>
+          <Fade right spy={currentIndex} appear delay={500}>
             <div className="character right">
-              <img src={`${currentGameData.character2.imageName}`} alt="" />
+              <img
+                src={`${currentGameData.character2.imageName}`}
+                alt="character 2"
+                loading="eager"
+              />
             </div>
           </Fade>
         </>

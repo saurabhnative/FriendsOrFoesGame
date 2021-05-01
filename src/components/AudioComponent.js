@@ -19,6 +19,7 @@ export default function AudioComponent() {
         src="https://res.cloudinary.com/dk22rcdch/video/upload/v1619806254/FriendsOrFoes/trimmedintro_s6baaj.mov"
         ref={audioRef}
         preload="metadata"
+        loop="true"
       />
       <div className="audio-component-icon" onClick={() => toggleAudio()}>
         {audioPlayback ? (

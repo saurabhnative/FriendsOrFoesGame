@@ -2,111 +2,111 @@
     "results": [
         {
             "character1": {
-                "name": "Goku",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806434/FriendsOrFoes/goku_b3sih0.png"
+                "name": "Cat",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/cat_cdzagt.png"
             },
             "character2": {
-                "name": "Vegeta",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806435/FriendsOrFoes/vegeta_u2ojrp.png"
+                "name": "Mouse",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/mouse_fj7t6f.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
-                "name": "Iron Man",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806521/FriendsOrFoes/iron-man_vfufgq.png"
+                "name": "Eagle",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/eagle_li4s9c.png"
             },
             "character2": {
-                "name": "Thanos",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806523/FriendsOrFoes/thanos_uod025.png"
+                "name": "Snake",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/snake_binwd1.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
-                "name": "Spider Man",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806557/FriendsOrFoes/spider-man_tizmni.png"
+                "name": "Honey Bee",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/honey-bee_k8otfm.png"
             },
             "character2": {
-                "name": "Hulk",
-                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619806557/FriendsOrFoes/hulk_usijnd.png"
+                "name": "Flowers",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/flowers_tpiifw.png"
             },
             "answer": "friends"
         },
         {
             "character1": {
-                "name": "Harry Potter",
-                "imageName": "q4/Harry.png"
+                "name": "Panda",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/panda_l0ad0m.png"
             },
             "character2": {
-                "name": "Hermoine",
-                "imageName": "q4/Hermoine.png"
+                "name": "Squirel",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/squirrel_vskiqw.png"
             },
             "answer": "friends"
         },
         {
             "character1": {
-                "name": "Star Lord",
-                "imageName": "q5/star-lord.png"
+                "name": "Pirate",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/pirate_vmj1af.png"
             },
             "character2": {
-                "name": "Groot",
-                "imageName": "q5/groot.png"
+                "name": "Parrot",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/parrot_uxbrgf.png"
             },
             "answer": "friends"
         },
         {
             "character1": {
-                "name": "Captain America",
-                "imageName": "q6/captain-america.png"
+                "name": "Thief",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/burglar_mrzlka.png"
             },
             "character2": {
-                "name": "Spider Man",
-                "imageName": "q6/spider-man-marvel.png"
-            },
-            "answer": "friends"
-        },
-        {
-            "character1": {
-                "name": "Spider Man",
-                "imageName": "q7/spider-man.png"
-            },
-            "character2": {
-                "name": "Venom",
-                "imageName": "q7/venom.png"
+                "name": "Police",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/police_f8onze.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
-                "name": "Darth Wader",
-                "imageName": "q8/darth-wader.png"
+                "name": "Lion",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/lion_uwdpfl.png"
             },
             "character2": {
-                "name": "Luke",
-                "imageName": "q8/luke.png"
+                "name": "Deer",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852489/FriendsOrFoes/deer_q7qtr4.png"
             },
             "answer": "foes"
         },
         {
             "character1": {
-                "name": "Minion 1",
-                "imageName": "q9/minion1.png"
+                "name": "Tesla",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/nikola-tesla_a4jkc9.png"
             },
             "character2": {
-                "name": "Minion 2",
-                "imageName": "q9/minion2.png"
+                "name": "Edison",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/thomas-edison_l9ru19.png"
+            },
+            "answer": "foes"
+        },
+        {
+            "character1": {
+                "name": "Santa",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/santa_qyyqpk.png"
+            },
+            "character2": {
+                "name": "Reindeer",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/reindeer_dxwvmj.png"
             },
             "answer": "friends"
         },
         {
             "character1": {
-                "name": "Mickey Mouse",
-                "imageName": "q10/micky-mouse.png"
+                "name": "Moon",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852490/FriendsOrFoes/moon_ecte2n.png"
             },
             "character2": {
-                "name": "Minnie Mouse",
-                "imageName": "q10/minnie-mouse.png"
+                "name": "Vampire",
+                "imageName": "https://res.cloudinary.com/dk22rcdch/image/upload/v1619852491/FriendsOrFoes/Vampire_ag3bko.png"
             },
             "answer": "friends"
         }
