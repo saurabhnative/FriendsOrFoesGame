@@ -12,7 +12,7 @@ export default function AudioComponent() {
         <>
           <audio
             src="https://res.cloudinary.com/dk22rcdch/video/upload/v1619806254/FriendsOrFoes/trimmedintro_s6baaj.mov"
-            preload="metadata"
+            preload="none"
             loop="true"
             autoPlay="true"
           />
