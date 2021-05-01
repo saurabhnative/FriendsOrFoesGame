@@ -10,6 +10,9 @@
 App Demo:-  
 https://friends-or-foes.netlify.app/
 
+Design:-  
+https://www.figma.com/file/Kjt0bGcPeKV4vIGqyfbEpX/MarvelFriendsOrFoes?node-id=0%3A1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
