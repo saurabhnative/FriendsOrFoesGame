@@ -1,5 +1,15 @@
 # Friend or Foes Game made using react.js
 
+## Game screens:-   
+
+<p float="left">
+  <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1619855280/FriendsOrFoes/Screenshot_2021-05-01_at_1.16.09_PM_k18rep.png" width="300"/>
+  <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1619855280/FriendsOrFoes/Screenshot_2021-05-01_at_1.16.27_PM_begyvw.png" width="300"/>
+</p>
+
+App Demo:-  
+https://friends-or-foes.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
