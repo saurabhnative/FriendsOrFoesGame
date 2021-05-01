@@ -11,209 +11,191 @@ export default function CreditsPopUp({ setAreCreditsShown }) {
             listed below:-{" "}
           </p>
           <br />
-          Marvel
+          Animals:
           <br />
-          Iron man:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/tanuj_handa-5848532/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4946614"
-            rel="noopener noreferrer"
-          >
-            Tanuj Handa
+          Cat:- Image by{" "}
+          <a href="https://pixabay.com/users/edurs34-8516248/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5458336">
+            Eduardo RS
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4946614"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5458336">
             Pixabay
           </a>
           <br />
-          Thanos:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/tanuj_handa-5848532/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4946614"
-            rel="noopener noreferrer"
-          >
-            Tanuj Handa
+          Mouse:- Image by{" "}
+          <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=157152">
+            OpenClipart-Vectors
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4946614"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=157152">
             Pixabay
           </a>
           <br />
-          Star Lord:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/vinsky2002-1151065/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4340716"
-            rel="noopener noreferrer"
-          >
-            Vinson Tan ( 楊 祖 武 )
+          Eagle:- Image by{" "}
+          <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4801249">
+            Gordon Johnson
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4340716"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4801249">
             Pixabay
           </a>
           <br />
-          Groot:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/vinsky2002-1151065/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4340715"
-            rel="noopener noreferrer"
-          >
-            Vinson Tan ( 楊 祖 武 )
+          Snake:- Image by{" "}
+          <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4801249">
+            Gordon Johnson
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4340715"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4801249">
             Pixabay
           </a>
           <br />
-          Spider Man Marvel:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/king_lip-11958968/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4227841"
-            rel="noopener noreferrer"
-          >
-            King Lip
+          Honey Bee:- Image by{" "}
+          <a href="https://pixabay.com/users/susannp4-1777190/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3066876">
+            Susann Mielke
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4227841"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3066876">
             Pixabay
           </a>
           <br />
-          Captain America:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/inspiredimages-57296/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132272"
-            rel="noopener noreferrer"
-          >
-            InspiredImages
+          Flowers:- Image by{" "}
+          <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=34592">
+            Clker-Free-Vector-Images
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132272"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=34592">
             Pixabay
           </a>
           <br />
-          Spiderman:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/inspiredimages-57296/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132288"
-            rel="noopener noreferrer"
-          >
-            InspiredImages
+          Deer:- Image by{" "}
+          <a href="https://pixabay.com/users/starglade-768093/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1529441">
+            Colleen ODell
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132288"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1529441">
             Pixabay
           </a>
           <br />
-          Hulk:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/inspiredimages-57296/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132281"
-            rel="noopener noreferrer"
-          >
-            InspiredImages
+          Lion:- Image by{" "}
+          <a href="https://pixabay.com/users/unboxscience-1306029/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1085667">
+            Unbox Science
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1132281"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1085667">
+            Pixabay
+          </a>
+          <br />
+          Squirrel:- Image by{" "}
+          <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=306218">
+            Clker-Free-Vector-Images
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=306218">
+            Pixabay
+          </a>
+          <br />
+          Panda:- Image by{" "}
+          <a href="https://pixabay.com/users/grafikacesky-947552/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1304584">
+            grafikacesky
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1304584">
             Pixabay
           </a>
           <br />
           <br />
-          Harry potter
+          Scientists:
           <br />
-          Harry & Hermione:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/piotrzakrzewski-1483646/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4711342"
-            rel="noopener noreferrer"
-          >
-            Piotr Zakrzewski
+          Tesla:- Image by{" "}
+          <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5437917">
+            Gordon Johnson
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4711342"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5437917">
+            Pixabay
+          </a>
+          <br />
+          Edison:- Image by{" "}
+          <a href="https://pixabay.com/users/wikiimages-1897/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=67763">
+            WikiImages
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=67763">
             Pixabay
           </a>
           <br />
           <br />
-          Minions
+          Traditional:
           <br />
-          Minion1:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/inspiredimages-57296/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1138478"
-            rel="noopener noreferrer"
-          >
-            InspiredImages
+          Theif:- Image by{" "}
+          <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=157142">
+            OpenClipart-Vectors
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1138478"
-            rel="noopener noreferrer"
-          >
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=157142">
             Pixabay
           </a>
           <br />
-          Minion2:- Image by{" "}
-          <a
-            href="https://pixabay.com/users/neva79-1112838/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2552584"
-            rel="noopener noreferrer"
-          >
-            Neven Divkovic
+          Police:- Image by{" "}
+          <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=159894">
+            OpenClipart-Vectors
           </a>{" "}
           from{" "}
-          <a
-            href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2552584"
-            rel="noopener noreferrer"
-          >
-            Pixabay
-          </a>
-          <br></br>
-          <br />
-          Disney:-
-          <br />
-          Minnie:- Image by{" "}
-          <a href="https://pixabay.com/users/herryway-29985/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=102709">
-            herry wibisono
-          </a>{" "}
-          from{" "}
-          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=102709">
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=159894">
             Pixabay
           </a>
           <br />
-          Mickey:- Image by{" "}
-          <a href="https://pixabay.com/users/abhi_jacob-8581153/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5340128">
-            Abhilash Jacob
+          Parrot:- Image by{" "}
+          <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=159894">
+            OpenClipart-Vectors
           </a>{" "}
           from{" "}
-          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5340128">
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=159894">
             Pixabay
           </a>
           <br />
-          <br />
-          Star wars:-
-          <br />
-          Luke and Darth Vader:- Image by{" "}
-          <a href="https://pixabay.com/users/janson_g-5907103/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2802650">
-            Gerhard Janson
+          Pirate:- Image by{" "}
+          <a href="https://pixabay.com/users/anastasia_makarevich-4811614/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4645925">
+            Anastasia Makarevich
           </a>{" "}
           from{" "}
-          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2802650">
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4645925">
+            Pixabay
+          </a>
+          <br />
+          Santa:- Image by{" "}
+          <a href="https://pixabay.com/users/anastasia_makarevich-4811614/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4645925">
+            Anastasia Makarevich
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4645925">
+            Pixabay
+          </a>
+          <br />
+          ReinDeer:- Image by{" "}
+          <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=41462">
+            Clker-Free-Vector-Images
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=41462">
+            Pixabay
+          </a>
+          <br />
+          Moon:- Image by{" "}
+          <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=41462">
+            Clker-Free-Vector-Images
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=41462">
+            Pixabay
+          </a>
+          <br />
+          Vampire:- Image by{" "}
+          <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=31605">
+            Clker-Free-Vector-Images
+          </a>{" "}
+          from{" "}
+          <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=31605">
             Pixabay
           </a>
         </div>
