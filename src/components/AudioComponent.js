@@ -1,3 +1,6 @@
+/**
+ * Audio component to play sound in background
+ */
 import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faVolumeUp, faVolumeMute } from "@fortawesome/free-solid-svg-icons";
@@ -6,6 +9,7 @@ export default function AudioComponent() {
   const [audioPlayback, setAudioPlayback] = useState(false);
   const [audioElement, setAudioElement] = useState([]);
   function toggleAudio() {
+    // push audio tag when audio is to be played
     if (!audioPlayback) {
       const audioElement = [];
       audioElement.push(

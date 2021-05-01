@@ -1,3 +1,6 @@
+/**
+ * Game screen in which questions are presented to the user
+ */
 import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
 import classNames from "classnames";
